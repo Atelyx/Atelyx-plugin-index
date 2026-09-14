@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-09-13T20:52:22.240Z",
+  "generatedAt": "2026-09-14T04:59:31.286Z",
   "version": "v1",
   "items": [
-    {
-      "id": "com.atelyx.table-form",
-      "name": "表格表单",
-      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
-      "type": "tableview",
-      "repo": "Atelyx/table-form",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-09-12T18:18:36Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
     {
       "id": "com.atelyx.table-timeline",
       "name": "表格时间线",
@@ -24,6 +11,19 @@
       "defaultBranch": "main",
       "stars": 0,
       "updatedAt": "2026-09-12T02:25:52Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
+      "id": "com.atelyx.table-form",
+      "name": "表格表单",
+      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
+      "type": "tableview",
+      "repo": "Atelyx/table-form",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-09-14T04:09:09Z",
       "topics": [
         "atelyx-plugin"
       ]
