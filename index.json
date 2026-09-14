@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-09-14T12:52:01.991Z",
+  "generatedAt": "2026-09-14T21:52:01.168Z",
   "version": "v1",
   "items": [
-    {
-      "id": "com.atelyx.table-timeline",
-      "name": "表格时间线",
-      "tagline": "表格时间线视图：按时长排布卡片并预演",
-      "type": "tableview",
-      "repo": "Atelyx/table-timeline",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-09-12T02:25:52Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
     {
       "id": "com.atelyx.table-form",
       "name": "表格表单",
@@ -24,6 +11,19 @@
       "defaultBranch": "main",
       "stars": 0,
       "updatedAt": "2026-09-14T04:09:09Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
+      "id": "com.atelyx.table-timeline",
+      "name": "表格时间线",
+      "tagline": "表格时间线视图：按时长排布卡片并预演",
+      "type": "tableview",
+      "repo": "Atelyx/table-timeline",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-09-12T02:25:52Z",
       "topics": [
         "atelyx-plugin"
       ]
