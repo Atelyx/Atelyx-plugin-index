@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-09-16T04:52:08.872Z",
+  "generatedAt": "2026-09-16T11:38:14.778Z",
   "version": "v1",
   "items": [
+    {
+      "id": "com.atelyx.comfyui-panel",
+      "name": "ComfyUI",
+      "tagline": "把本机 ComfyUI 嵌进 Atelyx：编排、生成队列与结果落库",
+      "type": "panel",
+      "repo": "Atelyx/comfyui-panel",
+      "defaultBranch": "main",
+      "stars": 1,
+      "updatedAt": "2026-09-16T08:15:30Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
     {
       "id": "com.atelyx.table-form",
       "name": "表格表单",
@@ -11,19 +24,6 @@
       "defaultBranch": "main",
       "stars": 0,
       "updatedAt": "2026-09-14T04:09:09Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
-      "id": "com.atelyx.comfyui-panel",
-      "name": "ComfyUI",
-      "tagline": "把本机 ComfyUI 嵌进 Atelyx：编排、生成队列与结果落库",
-      "type": "panel",
-      "repo": "Atelyx/comfyui-panel",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-09-15T18:30:46Z",
       "topics": [
         "atelyx-plugin"
       ]
