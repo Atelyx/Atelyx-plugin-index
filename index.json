@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T16:59:00.531Z",
+  "generatedAt": "2026-09-22T21:21:22.008Z",
   "version": "v1",
   "items": [
     {
@@ -10,7 +10,7 @@
       "repo": "Atelyx/comfyui-panel",
       "defaultBranch": "main",
       "stars": 1,
-      "updatedAt": "2026-09-16T17:23:38Z",
+      "updatedAt": "2026-09-22T17:53:13Z",
       "topics": [
         "atelyx-plugin"
       ]
