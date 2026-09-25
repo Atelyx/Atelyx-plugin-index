@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T17:14:24.272Z",
+  "generatedAt": "2026-09-25T21:37:02.569Z",
   "version": "v1",
   "items": [
     {
@@ -10,20 +10,7 @@
       "repo": "Atelyx/comfyui-panel",
       "defaultBranch": "main",
       "stars": 1,
-      "updatedAt": "2026-09-24T16:10:53Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
-      "id": "com.atelyx.table-form",
-      "name": "表格表单",
-      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
-      "type": "tableview",
-      "repo": "Atelyx/table-form",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-09-14T04:09:09Z",
+      "updatedAt": "2026-09-25T18:48:19Z",
       "topics": [
         "atelyx-plugin"
       ]
@@ -37,6 +24,19 @@
       "defaultBranch": "main",
       "stars": 0,
       "updatedAt": "2026-09-12T02:25:52Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
+      "id": "com.atelyx.table-form",
+      "name": "表格表单",
+      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
+      "type": "tableview",
+      "repo": "Atelyx/table-form",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-09-14T04:09:09Z",
       "topics": [
         "atelyx-plugin"
       ]
