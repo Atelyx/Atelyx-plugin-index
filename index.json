@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:06:24.703Z",
+  "generatedAt": "2026-09-27T16:59:47.555Z",
   "version": "v1",
   "items": [
     {
@@ -16,19 +16,6 @@
       ]
     },
     {
-      "id": "com.atelyx.table-timeline",
-      "name": "表格时间线",
-      "tagline": "表格时间线视图：按时长排布卡片并预演",
-      "type": "tableview",
-      "repo": "Atelyx/table-timeline",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-09-12T02:25:52Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
       "id": "com.atelyx.table-form",
       "name": "表格表单",
       "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
@@ -37,6 +24,19 @@
       "defaultBranch": "main",
       "stars": 0,
       "updatedAt": "2026-09-14T04:09:09Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
+      "id": "com.atelyx.table-timeline",
+      "name": "表格时间线",
+      "tagline": "表格时间线视图：按时长排布卡片并预演",
+      "type": "tableview",
+      "repo": "Atelyx/table-timeline",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-09-12T02:25:52Z",
       "topics": [
         "atelyx-plugin"
       ]
