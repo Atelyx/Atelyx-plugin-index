@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:38:06.608Z",
+  "generatedAt": "2026-09-30T22:18:16.000Z",
   "version": "v1",
   "items": [
     {
@@ -11,19 +11,6 @@
       "defaultBranch": "main",
       "stars": 1,
       "updatedAt": "2026-09-29T14:04:39Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
-      "id": "com.atelyx.table-timeline",
-      "name": "表格时间线",
-      "tagline": "表格时间线视图：按时长排布卡片并预演",
-      "type": "tableview",
-      "repo": "Atelyx/table-timeline",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-09-12T02:25:52Z",
       "topics": [
         "atelyx-plugin"
       ]
@@ -42,14 +29,27 @@
       ]
     },
     {
+      "id": "com.atelyx.table-timeline",
+      "name": "表格时间线",
+      "tagline": "表格时间线视图：按时长排布卡片并预演",
+      "type": "tableview",
+      "repo": "Atelyx/table-timeline",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-09-12T02:25:52Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
       "id": "com.atelyx.llama.cpp-panel",
       "name": "llama.cpp",
-      "tagline": "托管启动 llama-server：扫描 gguf 模型、选模型、启停、看日志",
+      "tagline": "下载 gguf 模型（支持镜像站）· 托管启动 llama-server · 状态与日志",
       "type": "panel",
       "repo": "Atelyx/llama.cpp-panel",
       "defaultBranch": "main",
       "stars": 0,
-      "updatedAt": "2026-09-30T01:28:38Z",
+      "updatedAt": "2026-09-30T17:27:51Z",
       "topics": [
         "atelyx-plugin"
       ]
