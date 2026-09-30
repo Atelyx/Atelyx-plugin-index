@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:17:58.856Z",
+  "generatedAt": "2026-09-30T00:51:45.152Z",
   "version": "v1",
   "items": [
     {
@@ -37,6 +37,19 @@
       "defaultBranch": "main",
       "stars": 0,
       "updatedAt": "2026-09-14T04:09:09Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
+      "id": "com.atelyx.llama.cpp-panel",
+      "name": "llama.cpp",
+      "tagline": "托管启动 llama-server：扫描 gguf 模型、选模型、启停、看日志",
+      "type": "panel",
+      "repo": "Atelyx/llama.cpp-panel",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-09-30T00:51:27Z",
       "topics": [
         "atelyx-plugin"
       ]
