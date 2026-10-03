@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T22:16:20.019Z",
+  "generatedAt": "2026-10-03T05:21:16.882Z",
   "version": "v1",
   "items": [
     {
@@ -10,20 +10,7 @@
       "repo": "Atelyx/comfyui-panel",
       "defaultBranch": "main",
       "stars": 1,
-      "updatedAt": "2026-09-29T14:04:39Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
-      "id": "com.atelyx.table-form",
-      "name": "表格表单",
-      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
-      "type": "tableview",
-      "repo": "Atelyx/table-form",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-09-14T04:09:09Z",
+      "updatedAt": "2026-10-03T05:04:14Z",
       "topics": [
         "atelyx-plugin"
       ]
@@ -36,7 +23,20 @@
       "repo": "Atelyx/llama.cpp-panel",
       "defaultBranch": "main",
       "stars": 0,
-      "updatedAt": "2026-09-30T17:27:51Z",
+      "updatedAt": "2026-10-03T05:04:47Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
+      "id": "com.atelyx.table-form",
+      "name": "表格表单",
+      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
+      "type": "tableview",
+      "repo": "Atelyx/table-form",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-10-03T05:05:09Z",
       "topics": [
         "atelyx-plugin"
       ]
@@ -49,7 +49,7 @@
       "repo": "Atelyx/table-timeline",
       "defaultBranch": "main",
       "stars": 0,
-      "updatedAt": "2026-09-12T02:25:52Z",
+      "updatedAt": "2026-10-03T05:05:31Z",
       "topics": [
         "atelyx-plugin"
       ]
