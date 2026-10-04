@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:24:40.391Z",
+  "generatedAt": "2026-10-04T21:29:06.981Z",
   "version": "v1",
   "items": [
     {
@@ -9,21 +9,8 @@
       "type": "panel",
       "repo": "Atelyx/comfyui-panel",
       "defaultBranch": "main",
-      "stars": 1,
-      "updatedAt": "2026-10-03T05:04:14Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
-      "id": "com.atelyx.llama.cpp-panel",
-      "name": "llama.cpp",
-      "tagline": "下载 gguf 模型（支持镜像站）· 托管启动 llama-server · 状态与日志",
-      "type": "panel",
-      "repo": "Atelyx/llama.cpp-panel",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-10-03T21:45:41Z",
+      "stars": 2,
+      "updatedAt": "2026-10-04T13:49:09Z",
       "topics": [
         "atelyx-plugin"
       ]
@@ -42,6 +29,19 @@
       ]
     },
     {
+      "id": "com.atelyx.llama.cpp-panel",
+      "name": "llama.cpp",
+      "tagline": "下载 gguf 模型（支持镜像站）· 托管启动 llama-server · 状态与日志",
+      "type": "panel",
+      "repo": "Atelyx/llama.cpp-panel",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-10-04T14:56:54Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
       "id": "com.atelyx.table-timeline",
       "name": "表格时间线",
       "tagline": "表格时间线视图：按时长排布卡片并预演",
@@ -49,7 +49,7 @@
       "repo": "Atelyx/table-timeline",
       "defaultBranch": "main",
       "stars": 0,
-      "updatedAt": "2026-10-03T05:05:31Z",
+      "updatedAt": "2026-10-04T13:26:40Z",
       "topics": [
         "atelyx-plugin"
       ]
