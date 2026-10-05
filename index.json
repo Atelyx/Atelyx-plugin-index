@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:44:34.126Z",
+  "generatedAt": "2026-10-05T14:44:45.763Z",
   "version": "v1",
   "items": [
     {
@@ -16,19 +16,6 @@
       ]
     },
     {
-      "id": "com.atelyx.table-form",
-      "name": "表格表单",
-      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
-      "type": "tableview",
-      "repo": "Atelyx/table-form",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-10-03T05:05:09Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
       "id": "com.atelyx.llama.cpp-panel",
       "name": "llama.cpp",
       "tagline": "下载 gguf 模型（支持镜像站）· 托管启动 llama-server · 状态与日志",
@@ -37,6 +24,19 @@
       "defaultBranch": "main",
       "stars": 0,
       "updatedAt": "2026-10-04T14:56:54Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
+      "id": "com.atelyx.table-form",
+      "name": "表格表单",
+      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
+      "type": "tableview",
+      "repo": "Atelyx/table-form",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-10-03T05:05:09Z",
       "topics": [
         "atelyx-plugin"
       ]
