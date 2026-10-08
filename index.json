@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T13:33:56.336Z",
+  "generatedAt": "2026-10-08T23:22:40.290Z",
   "version": "v1",
   "items": [
     {
@@ -10,20 +10,7 @@
       "repo": "Atelyx/comfyui-panel",
       "defaultBranch": "main",
       "stars": 2,
-      "updatedAt": "2026-10-05T16:52:18Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
-      "id": "com.atelyx.llama.cpp-panel",
-      "name": "llama.cpp",
-      "tagline": "下载 gguf 模型（支持镜像站）· 托管启动 llama-server · 状态与日志",
-      "type": "panel",
-      "repo": "Atelyx/llama.cpp-panel",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-10-05T17:28:21Z",
+      "updatedAt": "2026-10-08T19:01:24Z",
       "topics": [
         "atelyx-plugin"
       ]
@@ -37,6 +24,19 @@
       "defaultBranch": "main",
       "stars": 0,
       "updatedAt": "2026-10-05T16:52:25Z",
+      "topics": [
+        "atelyx-plugin"
+      ]
+    },
+    {
+      "id": "com.atelyx.llama.cpp-panel",
+      "name": "llama.cpp",
+      "tagline": "下载 gguf 模型（支持镜像站）· 托管启动 llama-server · 状态与日志",
+      "type": "panel",
+      "repo": "Atelyx/llama.cpp-panel",
+      "defaultBranch": "main",
+      "stars": 0,
+      "updatedAt": "2026-10-08T19:00:56Z",
       "topics": [
         "atelyx-plugin"
       ]
