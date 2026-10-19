@@ -1,45 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:21:22.506Z",
+  "generatedAt": "2026-10-19T22:22:41.521Z",
   "version": "v1",
-  "items": [
-    {
-      "id": "com.atelyx.comfyui-panel",
-      "name": "ComfyUI",
-      "tagline": "把本机 ComfyUI 嵌进 Atelyx：编排、生成队列与结果落库",
-      "type": "panel",
-      "repo": "Atelyx/comfyui-panel",
-      "defaultBranch": "main",
-      "stars": 2,
-      "updatedAt": "2026-10-09T01:15:48Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
-      "id": "com.atelyx.table-form",
-      "name": "表格表单",
-      "tagline": "多维表格的表单视图：按字段配置填写，提交新增或更新行",
-      "type": "tableview",
-      "repo": "Atelyx/table-form",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-10-05T16:52:25Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    },
-    {
-      "id": "com.atelyx.table-timeline",
-      "name": "表格时间线",
-      "tagline": "表格时间线视图：按时长排布卡片并预演",
-      "type": "tableview",
-      "repo": "Atelyx/table-timeline",
-      "defaultBranch": "main",
-      "stars": 0,
-      "updatedAt": "2026-10-17T03:59:31Z",
-      "topics": [
-        "atelyx-plugin"
-      ]
-    }
-  ]
+  "items": []
 }
